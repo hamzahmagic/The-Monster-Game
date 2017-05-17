@@ -1,0 +1,40 @@
+body {
+	background-color: #cf2d2b;
+
+}
+
+h1 {
+	font-size: 4em;
+}
+
+img {
+	margin: 0;
+	padding: 0;
+
+}
+
+#tam {
+	margin: 2em;
+	display: inline-block;
+}
+
+#paa {
+	font-size: 2em;
+	float: right;
+	display: block;
+	display: inline-block;
+	margin: 4em 2em;
+
+}
+
+#play {
+	margin: 6em;
+	text-decoration: none;
+	color: white;	
+	background-color: black;
+	padding: 15px;
+	border: white solid 2px;
+	border-radius: 10px;
+}
+
+
